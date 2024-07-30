@@ -1,0 +1,86 @@
+Project Overview
+
+
+
+Namma Yatri Application
+
+Namma Yatri is a ride-hailing application based in Karnataka, primarily serving the Bangalore region. It functions similarly to other well-known platforms like Ola and Uber, providing users with a convenient means of transportation via auto-rickshaws. The app is distinct in its driver-centric approach, emphasizing minimal costs for drivers. Unlike other platforms, Namma Yatri charges no commission or subscription fees from drivers, encouraging more of them to join and offer their services. This results in competitive pricing and increased availability of rides for users.
+
+- Key Features:
+
+1. Driver Benefits: Zero commission and no subscription fees, making it an attractive option for drivers.
+2. Real-Time Dashboard: The app's website features a real-time dashboard displaying live data such as the number of trips, active drivers, and various other metrics categorized by areas.
+3. Data-Driven Insights: Users can gain insights into their journey data, providing a comprehensive view of their travel history and preferences.
+Project Overview:
+In this SQL project, we will explore the backend data of Namma Yatri, focusing on how user journey data is processed and stored. Using SQL Server for data exploration and Power BI for data visualization, the project aims to recreate a dashboard similar to the one seen on the Namma Yatri website. This dashboard will illustrate real-time data points such as the number of trips, driver distribution, and regional usage patterns, providing valuable insights into the app's operation and user engagement.
+
+About Data
+
+Namma Yatri Data Walkthrough:
+
+To understand the data stored in the Namma Yatri application, it's essential to walk through the app's user interface and the interactions that generate data recorded in the backend. This process will clarify how each table in the database plays a crucial role in capturing various aspects of the business operations.
+
+Application Workflow:
+1. Opening the App: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
+2. Selecting Pickup Location: The user enters the location where they want to start their ride.
+3. Selecting Destination: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
+4. Confirming Location: After selecting the pickup and destination points, the user confirms these locations by clicking a confirmation button.
+5. Fare Estimate: The app provides an estimated fare for the selected journey. This estimate is generated based on the input locations and is also recorded.
+6. Requesting a Ride: The user clicks on the request button to find a driver. The system searches for available drivers willing to take the ride, and this interaction is logged in the database.
+7. Driver Allocation: Once a driver is found, the driver details are shared with the user, and the ride begins.
+
+
+
+Database Tables
+
+The database consists of five tables. Each table plays a crucial role in storing different facets of the business operations.
+
+Below is a detailed description of each table:
+
+1. trips
+   - TripID: Unique identifier for each trip.
+   - FareMethod: Method of payment for the fare.
+   - Fare: Charge for the trip.
+   - loc_from: Starting location of the trip.
+   - loc_to: Destination location of the trip.
+   - DriverID: Identifier for the driver assigned to the trip.
+   - CustID: Identifier for the customer who booked the trip.
+   - Distance: Distance covered during the trip.
+   - DurationID: Identifier for the trip duration.
+
+2. trip_details
+   - TripID: Unique identifier for each trip.
+   - loc_from: Starting location of the trip.
+   - searches: Number of location searches made.
+   - searches_got_estimate: Indicator if fare estimate was searched.
+   - searches_for_quotes: Indicator if fare quotes were searched.
+   - searches_got_quotes: Indicator if fare quotes were received.
+   - customer_not_cancelled: Indicator if customer did not cancel.
+   - driver_not_cancelled: Indicator if driver did not cancel.
+   - otp_entered: Indicator if OTP was entered.
+   - end_ride: Indicator if the ride was ended.
+
+3. duration
+   - DurationID: Unique identifier for each duration.
+   - Duration (in hours): Duration of the trip in hours.
+   - AM/PM: Time of day the trip occurred (AM/PM).
+
+4. payment
+   - FareMethod: Identifier for the payment method.
+   - Method: Type of payment method used (e.g., UPI, cash, credit card).
+
+5. assembly
+   - loc_from: Starting location ID.
+   - Assembly (Location): Name of the starting location.
+
+
+
+Who can use this analysis and why to use this analysis?
+
+Leveraging this data analysis can benefit stakeholders in the transportation and ride-hailing industry by enhancing user experience and operational efficiency. By understanding customer behavior patterns, drop-off points, and conversion rates, businesses can identify key issues like high cancellation rates and pricing dissatisfaction. This allows for targeted service improvements and fare adjustments. Recognizing top-earning drivers and preferred payment methods enables the development of effective incentive programs and optimized payment options. This data-driven approach helps retain existing customers and attract new ones through tailored promotional strategies, ultimately leading to better resource allocation, improved customer satisfaction, and sustained business growth.
+Business analysts, product managers, and operations teams can use this analysis to optimize service delivery and strategic decisions, while marketing teams can develop targeted campaigns to improve customer retention and acquisition
+
+
+CONCLUSION
+
+By exploring these tables using SQL Server, we can analyze how user interactions are captured and processed in the backend. Further visualization using Power BI will help in creating a dashboard that reflects real-time data points, similar to the one available on the Namma Yatri website. This project demonstrate how data-driven decisions are made based on user journeys and interactions within the app.

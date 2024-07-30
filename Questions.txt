@@ -1,0 +1,48 @@
+QUESTIONS:
+
+1. Difference between trips and trip_details table 
+2. Total No Of Trips 
+3. To check duplicate Ids are present or not 
+4. Total No Of Distinct Drivers 
+5. Total Earnings 
+6. Total Completed Trips
+7. Total No Of Searches which took place 
+8. Total No Of Searches which got estimate 
+9. Total Searches For Quotes 
+10. Total searches which got quotes 
+11. Total Number of trips which is not cancelled by drivers 
+12. Total Number of trips which got cancelled by drivers 
+13. Total OTP Entered
+14. Total Number of End Ride 
+15. Average Distance Per Trip 
+16. Average Fare Per Trip 
+17. Distance Travelled 
+18. Which is the most used payment method 
+19. Name of the most used fare method 
+20. The highest payment was made through which instrument 
+21. Which Two locations had the most no of trips 
+22. Top 5 earning drivers
+23. Which duration/ hours had a greater number of trips 
+24. Which driver, customer pair had more orders 
+25. Search to Estimate Rate 
+26. Estimate to search for quote rates 
+27. Quote Acceptance Rate 
+28. Quote Booking Rate 
+29. Booking Cancellation Rate 
+30. Conversion Rate 
+31. Which area got Highest trips in which duration 
+32. Which duration got the highest number of trips in each of the location present 
+33. Which area got the highest fare 
+34. Which area got the highest number of cancellations 
+35. Which duration got the highest fare 
+36. Which duration got the highest number of trips
+37. Total number of customers
+38. Average duration per trip
+39. Total revenue per order
+40. Total revenue per location
+41. Average Fare per driver
+42. Average distance per driver
+43. Total number of trips per customer
+44. Most Frequent customers
+45. Revenue per hour
+46. Trip frequency by hour
