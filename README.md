@@ -26,7 +26,7 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 1. **Opening the App**: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img1.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 
@@ -37,22 +37,22 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 3. **Selecting Destination**: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px; padding-right: 20px;" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;padding-right: 20px;" />
 </div>
 
 
 4. **Confirming Location**: After selecting the pickup and destination points, the user confirms these locations by clicking a confirmation button.
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
 
