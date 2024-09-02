@@ -1,5 +1,11 @@
 # Namma Yatri Application Analysis
 
+<br /> 
+<div align="center" style="margin-bottom: 20px;">
+    <img src="/assets/ny1.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+</div>
+<br />
+
 ## Introduction
 
 Namma Yatri is a ride-hailing application based in Karnataka, primarily serving the Bangalore region. It functions similarly to other well-known platforms like Ola and Uber, providing users with a convenient means of transportation via auto-rickshaws. The app is distinct in its driver-centric approach, emphasizing minimal costs for drivers. Unlike other platforms, Namma Yatri charges no commission or subscription fees from drivers, encouraging more of them to join and offer their services. This results in competitive pricing and increased availability of rides for users.
