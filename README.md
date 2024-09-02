@@ -22,13 +22,48 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 ### Application Workflow
 
+### Let's go through the app together, step by step:
+
 1. **Opening the App**: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
+
+<img src="/assets/img1.jpeg" />
+
 2. **Selecting Pickup Location**: The user enters the location where they want to start their ride.
+
+I initially granted access to my location while using the app, hoping to find a ride. However, I later revoked this permission as I wasn't able to find many rides, likely because the app isn't widely used in Delhi. 
+
 3. **Selecting Destination**: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
+
+<img src="/assets/img2.jpeg" />
+
+<img src="/assets/img3.jpeg" />
+
 4. **Confirming Location**: After selecting the pickup and destination points, the user confirms these locations by clicking a confirmation button.
+
+<img src="/assets/img4.jpeg" />
+
+<img src="/assets/img5.jpeg" />
+
 5. **Fare Estimate**: The app provides an estimated fare for the selected journey. This estimate is generated based on the input locations and is also recorded.
+
+<img src="/assets/img6.jpeg" />
+
+<img src="/assets/img7.jpeg" />
+
 6. **Requesting a Ride**: The user clicks on the request button to find a driver. The system searches for available drivers willing to take the ride, and this interaction is logged in the database.
+
+<img src="/assets/img8.jpeg" />
+
 7. **Driver Allocation**: Once a driver is found, the driver details are shared with the user, and the ride begins.
+
+<img src="/assets/img9.jpeg" />
+
+I had to cancel the ride this time as I was only doing a trial run to explore the app's features.
+
+<img src="/assets/img10.jpeg" />
+
+<img src="/assets/img11.jpeg" />
+
 
 ## Purpose of this Analysis
 
@@ -118,4 +153,7 @@ By addressing these areas, Namma Yatri can enhance its overall customer experien
 - **Develop Targeted Promotions**: Offer promotional deals and incentives on high-demand routes and during peak hours to attract and retain customers.
 - **Optimize Driver Engagement**: Implement strategies to reduce driver cancellations and improve their satisfaction, such as incentive programs for top-earning drivers.
 
+## Dashboard
+
+<img src="/assets/dashboard.jpeg" />
 
