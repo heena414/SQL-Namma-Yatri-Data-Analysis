@@ -40,13 +40,13 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 
 <div align="center">
-    <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin:auto padding-right: 20px;;" />
 </div>
 
 
 
 <div align="center">
-    <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin:auto padding-right: 20px;;" />
 </div>
 
 
