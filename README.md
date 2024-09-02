@@ -33,7 +33,7 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 2. **Selecting Pickup Location**: The user enters the location where they want to start their ride.
 <br /> 
-     I initially granted access to my location while using the app, hoping to find a ride. However, I later revoked this permission as I wasn't able to find many rides, likely because the app isn't widely used in Delhi. 
+I initially granted access to my location while using the app, hoping to find a ride. However, I later revoked this permission as I wasn't able to find many rides, likely because the app isn't widely used in Delhi. 
 <br /><br /> 
 
 3. **Selecting Destination**: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
