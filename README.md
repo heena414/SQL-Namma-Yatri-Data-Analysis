@@ -26,7 +26,7 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 1. **Opening the App**: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
 
-<img src="/assets/img1.jpeg" height="500px" width="auto" style="text-align: center "/>
+<img src="/assets/img1.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 
 2. **Selecting Pickup Location**: The user enters the location where they want to start their ride.
 
