@@ -26,9 +26,8 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 1. **Opening the App**: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
 
-
 <div align="center">
-    <img src="/assets/img1.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img1.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 
 
@@ -38,48 +37,38 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 3. **Selecting Destination**: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
 
-
 <div align="center">
-    <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin:auto padding-right: 20px;;" />
+    <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px padding-right: 20px;;" />
 </div>
 
-
-
 <div align="center">
-    <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin:auto padding-right: 20px;;" />
+    <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px padding-right: 20px;;" />
 </div>
 
 
 4. **Confirming Location**: After selecting the pickup and destination points, the user confirms these locations by clicking a confirmation button.
 
-
 <div align="center">
-    <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 
-
-
 <div align="center">
-    <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
 
 
 5. **Fare Estimate**: The app provides an estimated fare for the selected journey. This estimate is generated based on the input locations and is also recorded.
 
-
 <div align="center">
-    <img src="/assets/img6.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img6.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 
-
-
 <div align="center">
-    <img src="/assets/img7.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img7.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
 
 
 6. **Requesting a Ride**: The user clicks on the request button to find a driver. The system searches for available drivers willing to take the ride, and this interaction is logged in the database.
-
 
 <div align="center">
     <img src="/assets/img8.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
@@ -88,25 +77,21 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 
 7. **Driver Allocation**: Once a driver is found, the driver details are shared with the user, and the ride begins.
 
-
 <div align="center">
     <img src="/assets/img9.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
 
 
-I had to cancel the ride this time as I was only doing a trial run to explore the app's features.
+ **I had to cancel the ride this time as I was only doing a trial run to explore the app's features.**
 
 
 <div align="center">
-    <img src="/assets/img10.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img10.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
-
-
 
 <div align="center">
-    <img src="/assets/img11.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
+    <img src="/assets/img11.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
-
 
 ## Purpose of this Analysis
 
