@@ -25,75 +25,77 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 ### Let's go through the app together, step by step:
 
 1. **Opening the App**: The user opens the Namma Yatri mobile app. The user interface (UI) is simple and user-friendly.
-
+<br /> 
 <div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img1.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
-
+<br /> 
 
 2. **Selecting Pickup Location**: The user enters the location where they want to start their ride.
-
+<br /> 
      I initially granted access to my location while using the app, hoping to find a ride. However, I later revoked this permission as I wasn't able to find many rides, likely because the app isn't widely used in Delhi. 
-
+<br /> 
 3. **Selecting Destination**: The user inputs the destination they wish to reach. Each input at this stage is recorded in the backend database.
+<br /> 
 
 <div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px; padding-right: 20px;" />
 </div>
 
-<br />
+<br /> 
 
 <div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;padding-right: 20px;" />
 </div>
-
+<br /> 
 
 4. **Confirming Location**: After selecting the pickup and destination points, the user confirms these locations by clicking a confirmation button.
-
+<br /> 
 <div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
-
+<br /> 
 <div align="center" style="margin-bottom: 20px;">
     <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
-
+<br /> 
 
 5. **Fare Estimate**: The app provides an estimated fare for the selected journey. This estimate is generated based on the input locations and is also recorded.
-
+<br /> 
 <div align="center">
     <img src="/assets/img6.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
-
+<br /> 
 <div align="center">
     <img src="/assets/img7.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
-
+<br /> 
 
 6. **Requesting a Ride**: The user clicks on the request button to find a driver. The system searches for available drivers willing to take the ride, and this interaction is logged in the database.
-
+<br /> 
 <div align="center">
     <img src="/assets/img8.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
-
+<br /> 
 
 7. **Driver Allocation**: Once a driver is found, the driver details are shared with the user, and the ride begins.
-
+<br /> 
 <div align="center">
     <img src="/assets/img9.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
-
+<br /> <br /> 
 
  **I had to cancel the ride this time as I was only doing a trial run to explore the app's features.**
-
+<br /> 
 
 <div align="center">
     <img src="/assets/img10.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
-
+<br /> 
 <div align="center">
     <img src="/assets/img11.jpeg" height="500px" width="auto" style="display:block; margin-top: 20px;" />
 </div>
+<br /> <br /> 
 
 ## Purpose of this Analysis
 
