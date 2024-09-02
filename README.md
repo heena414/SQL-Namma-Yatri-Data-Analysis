@@ -71,6 +71,7 @@ The purpose of this Namma Yatri data analysis is to enhance user experience and 
 
 ### 4. Cancellation Analysis
 
+
 - **Driver Cancellations**:
   - Total Trips Not Cancelled by Drivers: 1140
   - Total Trips Cancelled by Drivers: 1021
