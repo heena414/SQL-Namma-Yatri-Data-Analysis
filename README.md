@@ -40,6 +40,7 @@ To understand the data stored in the Namma Yatri application, it's essential to 
     <img src="/assets/img2.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
 
+
 <div align="center">
     <img src="/assets/img3.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
@@ -50,6 +51,8 @@ To understand the data stored in the Namma Yatri application, it's essential to 
     <img src="/assets/img4.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
 
+
+
 <div align="center">
     <img src="/assets/img5.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
@@ -59,6 +62,7 @@ To understand the data stored in the Namma Yatri application, it's essential to 
 <div align="center">
     <img src="/assets/img6.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
+
 
 <div align="center">
     <img src="/assets/img7.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
@@ -81,6 +85,7 @@ I had to cancel the ride this time as I was only doing a trial run to explore th
 <div align="center">
     <img src="/assets/img10.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
 </div>
+
 
 <div align="center">
     <img src="/assets/img11.jpeg" height="500px" width="auto" style="display:block; margin:auto;" />
