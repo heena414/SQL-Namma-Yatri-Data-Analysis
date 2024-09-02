@@ -2,7 +2,7 @@
 
 <br /> 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="/assets/ny1.png" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+    <img src="/assets/ny2.png" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 <br />
 
