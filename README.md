@@ -2,7 +2,7 @@
 
 <br /> 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="/assets/img13.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px;" />
+    <img src="/assets/img13.jpeg" height="400px" width="auto" style="display:block; margin-bottom: 20px;" />
 </div>
 <br />
 
